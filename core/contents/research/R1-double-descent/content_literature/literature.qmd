@@ -1,0 +1,16 @@
+---
+title: Literature and review
+author: Bui Gia Khanh
+page-layout: article
+listing:
+  date-format: iso
+  contents: posts
+  fields: [image, title, categories, description, reading-time,
+           date]
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
